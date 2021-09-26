@@ -1,6 +1,11 @@
 # 픽셀페인터 한국어 패치
 Made by [THEP0LLOCK](https://github.com/THEP0LLOCK), [MineEric64](https://github.com/MineEric64), Version 2020/04/27 **v20.04.27**
 
+# 프로젝트 중단
+픽셀페인터 망한지 오래입니다.
+
+그리고 애초에 1년 반전에 픽셀 페인터 접음
+
 # 개요
 기존 픽셀페인터는 한국어 발번역 때문에 불편했었습니다.
 따라서 저희는 한국어 패치를 만들기로 했습니다.
